@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm David Aguiar 👋</h1>
+<h1 align="center">Hi! I'm Sebastián Aguiar 👋</h1>
 <p align="center">
 <strong>Fullstack & Backend Developer</strong> with a strong focus on building robust and scalable web applications. <br />
 Currently diving deeper into Software Architecture and exploring the Go ecosystem.
@@ -9,7 +9,7 @@ Currently diving deeper into Software Architecture and exploring the Go ecosyste
 I'm a developer with over 2 years of experience in the JavaScript/TypeScript ecosystem. I specialize in backend development with Node.js and NestJS, but I also enjoy building intuitive user interfaces with Next.js and React. My experience as a Tech Lead has allowed me not only to develop software but also to guide teams to improve code quality and process efficiency.
 
   * 🔭 I’m currently working on personal projects to strengthen my knowledge in Go and WebSockets.
-  * 🌱 I’m currently learning about Advanced Design Patterns and Microservices Architecture.
+  * 🌱 I’m currently learning about Design Patterns and Software Architecture.
   * 💬 Ask me about TypeScript, NestJS, Software Architecture, or development best practices.
   * 📫 How to reach me: sebaaguiar.dev@gmail.com
 
